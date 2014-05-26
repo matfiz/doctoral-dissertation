@@ -107,13 +107,14 @@
     %koniec spisu rysunków i~tablic
     %za³¹czniki
     \newpage
-    \appendix
-    \renewcommand{\appendixtocname}{Appendix}
+    
+    \renewcommand{\appendixtocname}{Appendices}
     \renewcommand{\appendixpagename}{~\vspace{8cm} \begin{center}Appendix\end{center}\newpage}
     \thispagestyle{empty}
-    \addappheadtotoc
+    %\appendix
     \appendixpage
-    %\input{zalacznik.tex}
+		\addappheadtotoc
+    \input{zalacznik.tex}
     %koniec za³¹czników
 
     %skorowidz - nie u¿ywam

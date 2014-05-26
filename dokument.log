@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.2.25)  26 MAY 2014 13:49
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.2.25)  26 MAY 2014 15:33
 entering extended mode
 **dokument.tex
 (D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\dokument.tex
@@ -194,42 +194,30 @@ Package: babel 2008/07/08 v3.8m The Babel package
 *
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\polish.ldf"
-Language: polish 2005/03/31 v1.2l Polish support from the babel system
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
  ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count99
 \U@D=\dimen112
 )
-Package babel Info: Making " an active character on input line 83.
-\pl@left=\dimen113
-\pl@down=\dimen114
-\pl@right=\dimen115
-\pl@temp=\dimen116
-))
-("C:\Users\Grzegorz Brzezinka\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\polski.sty"
-Package: polski 2008/02/24 v1.3.3 Polish language package
-
-Document language package `polski' v1.3.3 <2008/02/24>
-\l@nohyphenation=\language69
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot4enc.def"
-File: ot4enc.def 2005/09/27 v1.99g Standard LaTeX file
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
 )) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks20
 \inpenc@posthook=\toks21
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\cp1250.def"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\cp1250.def"
 File: cp1250.def 2008/03/30 v1.1d Input encoding file
 )) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
@@ -301,7 +289,7 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen117
+\@linkdim=\dimen113
 \Hy@linkcounter=\count101
 \Hy@pagecounter=\count102
 
@@ -319,60 +307,8 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
 Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\unhbox' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\voidb@x' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\unhbox' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\voidb@x' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\setbox' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempboxa' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\global' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathchardef' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\spacefactor' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\accent' on input line 4319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\spacefactor' on input line 4319.
-
 Package hyperref Info: Option `unicode' set `true' on input line 4319.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
 File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
 )
@@ -390,10 +326,10 @@ Package hyperref Info: Bookmarks ON on input line 4688.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen118
+\XeTeXLinkMargin=\dimen114
 \Fld@menulength=\count105
-\Field@Width=\dimen119
-\Fld@charsize=\dimen120
+\Field@Width=\dimen115
+\Fld@charsize=\dimen116
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -436,39 +372,33 @@ Package ExtSizes Warning: It is better to use one of the extsizes classes,
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
-LaTeX Font Info:    Try loading font information for OT4+cmr on input line 64.
-
-("C:\Users\Grzegorz Brzezinka\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\ot4cmr.fd"
-File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
-)))
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 )
-\Gin@req@height=\dimen121
-\Gin@req@width=\dimen122
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@cnth=\count111
 \Gm@cntv=\count112
 \c@Gm@tempcnt=\count113
-\Gm@bindingoffset=\dimen123
-\Gm@wd@mp=\dimen124
-\Gm@odd@mp=\dimen125
-\Gm@even@mp=\dimen126
-\Gm@layoutwidth=\dimen127
-\Gm@layoutheight=\dimen128
-\Gm@layouthoffset=\dimen129
-\Gm@layoutvoffset=\dimen130
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
 \Gm@dimlist=\toks23
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
@@ -481,22 +411,22 @@ Package: todo 2010/03/31 v2.4142 To-do list (Federico Garcia)
 Unknown option (`show')
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\circ\circ.sty"
 Package: circ 1997/04/23 v1.0d for typeset circuit diagrams
-\X*max=\dimen131
-\X*min=\dimen132
-\*X*=\dimen133
-\*Y*=\dimen134
-\**X=\dimen135
-\**Y=\dimen136
-\***X=\dimen137
-\***Y=\dimen138
+\X*max=\dimen127
+\X*min=\dimen128
+\*X*=\dimen129
+\*Y*=\dimen130
+\**X=\dimen131
+\**Y=\dimen132
+\***X=\dimen133
+\***Y=\dimen134
 \*bbox=\box28
 \box*=\box29
-\ic*=\dimen139
-\ht*=\dimen140
-\wd*=\dimen141
-\dp*=\dimen142
+\ic*=\dimen135
+\ht*=\dimen136
+\wd*=\dimen137
+\dp*=\dimen138
 \cc*=\count115
-\*spc=\dimen143
+\*spc=\dimen139
 \ldd*=\toks25
 \rud*=\toks26
 \llpos*=\toks27
@@ -514,14 +444,14 @@ Package: circ 1997/04/23 v1.0d for typeset circuit diagrams
 \ru*pin=\toks37
 \m*pin=\toks38
 \rmacros=\toks39
-\outerspace=\dimen144
+\outerspace=\dimen140
 \*Ilist=\toks40
 \*Olist=\toks41
-\pin*spc=\dimen145
-\pin*ind=\dimen146
-\io*ind=\dimen147
-\mid*ind=\dimen148
-\pinnum*spc=\dimen149
+\pin*spc=\dimen141
+\pin*ind=\dimen142
+\io*ind=\dimen143
+\mid*ind=\dimen144
+\pinnum*spc=\dimen145
 \CIRCfinit=\toks42
  ("C:\Program Files\MiKTeX 2.9\tex\latex\circ\basic.def"
 File: basic.def 
@@ -532,12 +462,12 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box30
 \beforetitleunit=\skip49
 \aftertitleunit=\skip50
-\ttl@plus=\dimen150
-\ttl@minus=\dimen151
+\ttl@plus=\dimen146
+\ttl@minus=\dimen147
 \ttl@toksa=\toks43
-\titlewidth=\dimen152
-\titlewidthlast=\dimen153
-\titlewidthfirst=\dimen154
+\titlewidth=\dimen148
+\titlewidthlast=\dimen149
+\titlewidthfirst=\dimen150
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty"
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 44.
@@ -583,8 +513,8 @@ English Documentation  22.09.99
 Package: flafter 2000/07/23 v1.2i Standard LaTeX floats after reference (FMi)
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen155
-\extrarowheight=\dimen156
+\col@sep=\dimen151
+\extrarowheight=\dimen152
 \NC@list=\toks44
 \extratabsurround=\skip83
 \backup@length=\skip84
@@ -594,14 +524,14 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \lst@gtempboxa=\box31
 \lst@token=\toks45
 \lst@length=\count121
-\lst@currlwidth=\dimen157
+\lst@currlwidth=\dimen153
 \lst@column=\count122
 \lst@pos=\count123
-\lst@lostspace=\dimen158
-\lst@width=\dimen159
+\lst@lostspace=\dimen154
+\lst@width=\dimen155
 \lst@newlines=\count124
 \lst@lineno=\count125
-\lst@maxwidth=\dimen160
+\lst@maxwidth=\dimen156
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
@@ -619,13 +549,13 @@ Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
  ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen161
-\captionmargin@=\dimen162
-\captionwidth=\dimen163
-\caption@tempdima=\dimen164
-\caption@indent=\dimen165
-\caption@parindent=\dimen166
-\caption@hangindent=\dimen167
+\captionmargin=\dimen157
+\captionmargin@=\dimen158
+\captionwidth=\dimen159
+\caption@tempdima=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
 )
 \c@ContinuedFloat=\count128
 Package caption Info: hyperref package is loaded.
@@ -640,8 +570,8 @@ Package: appendix 2009/09/02 v1.2b extra appendix facilities
 Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
-\wrapoverhang=\dimen168
-\WF@size=\dimen169
+\wrapoverhang=\dimen164
+\WF@size=\dimen165
 \c@WF@wrappedlines=\count132
 \WF@box=\box33
 \WF@everypar=\toks46
@@ -651,7 +581,7 @@ Package: wrapfig 2003/01/31  v 3.6
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 \c@KVtest=\count133
 \sf@farskip=\skip85
-\sf@captopadj=\dimen170
+\sf@captopadj=\dimen166
 \sf@capskip=\skip86
 \sf@nearskip=\skip87
 \c@subfigure=\count134
@@ -682,8 +612,6 @@ LaTeX Font Info:    Try loading font information for TS1+cmr on input line 23.
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
@@ -692,13 +620,13 @@ LaTeX Font Info:    ... okay on input line 23.
 ("C:\Users\Grzegorz Brzezinka\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count138
-\scratchdimen=\dimen171
+\scratchdimen=\dimen167
 \scratchbox=\box34
 \nofMPsegments=\count139
 \nofMParguments=\count140
 \everyMPshowfont=\toks47
 \MPscratchCnt=\count141
-\MPscratchDim=\dimen172
+\MPscratchDim=\dimen168
 \MPnumerator=\count142
 \makeMPintoPDFobject=\count143
 \everyMPtoPDFconversion=\toks48
@@ -760,12 +688,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for OT4+cmss on input line 28.
-("C:\Users\Grzegorz Brzezinka\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\ot4cmss.fd"
-File: ot4cmss.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
-)
 LaTeX Font Info:    Try loading font information for U+rsfs on input line 28.
-
 ("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
@@ -785,91 +708,65 @@ File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 ) [1
 
 {C:/Users/Grzegorz Brzezinka/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\dokument.toc)
+(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\dokument.toc [3])
 \tf@toc=\write4
- [3]
+ [4]
 \c@licznikStron=\count146
 
-(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\tresc_dokumentu.tex [4]) [5]
-(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\dokument.bbl
-LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 11.
-
-("C:\Users\Grzegorz Brzezinka\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\ot4cmtt.fd"
-File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
-)
-Underfull \hbox (badness 1902) in paragraph at lines 9--12
-[]\OT4/cmr/m/n/12 Olympus Mi-cr-scopy Re-so-urce Cen-ter.  [][]$\OT4/cmtt/m/n/12 http : / / www . olympusmicro . com /
+(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\tresc_dokumentu.tex
+(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\introduction.tex
+Overfull \hbox (13.80762pt too wide) in paragraph at lines 3--3
+ |[]\OT1/cmss/bx/n/17.28 Physiological rel-ev-ance of en-dothelial cells nanomech-
  []
 
+) [5] (D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\theoretical_nanoindentation.tex) [6]
+(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\fd_analysis.tex) [7]
+(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\measurement_conditions.tex) [8]
+(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\time_relaxation.tex) [9]
+(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\cell_cell_interaction.tex) [10]
+(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\conclusions.tex) [11])
 
-Underfull \hbox (badness 3895) in paragraph at lines 31--34
-[]\OT4/cmr/m/n/12 Bicompare.com DPBS.  [][]$\OT4/cmtt/m/n/12 http : / / www . biocompare . com / ProductDetails /
- []
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 88.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--54
-[]\OT4/cmr/m/n/12 University of Il-li-nois at Urbana-Champaign Col-lege of Me-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--54
-\OT4/cmr/m/n/12 di-cine at Urbana{Champaign.  Hi-sto-logy atlas.  on-line.
- []
-
-[6] [7]
-Underfull \hbox (badness 1331) in paragraph at lines 171--179
-\OT4/cmr/m/n/12 S0006-[]3495(97 ) 78802-[]7$.  URL [][]$\OT4/cmtt/m/n/12 http : / / www . sciencedirect . com / science 
-/
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--221
-[][]$\OT4/cmtt/m/n/12 http : / / journals . cambridge . org / action / displayAbstract ? fromPage =
- []
-
-[8]) [9] (D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\dokument.lof)
+(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\dokument.bbl) [12]
+(D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\dokument.lof)
 \tf@lof=\write5
- [10
+ [13
 
 ]
 (D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\dokument.lot)
 \tf@lot=\write6
- [11] [12]
+ [14] [15]
 (D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\zalacznik.tex)
 
-Package todo Warning: Nothing \todo! I'm ignoring the \todos command on input line 125.
+Package todo Warning: Nothing \todo! I'm ignoring the \todos command on input line 126.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 127.
-[13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 127.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
+[16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
  (D:\Brzezinka\Dokumenty\doktoranckie\doktorat\manuskrypt\dokument.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 127.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 127.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 128.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
 Package rerunfilecheck Info: File `dokument.out' has not changed.
-(rerunfilecheck)             Checksum: 91C1AFCFAE17C022709EDEB2B86972BB;1216.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 127.
+(rerunfilecheck)             Checksum: B04E1A988222D3BA29A66F16609203A1;5632.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
  ) 
 Here is how much of TeX's memory you used:
- 15183 strings out of 493921
- 216298 string characters out of 3147243
- 299971 words of memory out of 3000000
- 18180 multiletter control sequences out of 15000+200000
- 24169 words of font info for 82 fonts, out of 3000000 for 9000
+ 14774 strings out of 493921
+ 211035 string characters out of 3147243
+ 293805 words of memory out of 3000000
+ 17786 multiletter control sequences out of 15000+200000
+ 17170 words of font info for 68 fonts, out of 3000000 for 9000
  842 hyphenation exceptions out of 8191
- 38i,9n,41p,781b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Grzegorz Brzezinka/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/pltt.enc}{C:/Users/Grzegorz Brzezinka/AppDa
-ta/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plrm.enc}{C:/Users/Grzegorz Brzezinka/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvip
-s/pl/plit.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Grzegorz Brzezinka/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plbx10
-.pfb><C:/Users/Grzegorz Brzezinka/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/Grzegorz Brzezin
-ka/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/Grzegorz Brzezinka/AppData/Roaming/MiKTeX/2.9/fo
-nts/type1/public/pl/plr12.pfb><C:/Users/Grzegorz Brzezinka/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr17.pfb><C
-:/Users/Grzegorz Brzezinka/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plss12.pfb><C:/Users/Grzegorz Brzezinka/AppD
-ata/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plssbx10.pfb><C:/Users/Grzegorz Brzezinka/AppData/Roaming/MiKTeX/2.9/fonts/
-type1/public/pl/plti12.pfb><C:/Users/Grzegorz Brzezinka/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/pltt12.pfb>
-Output written on dokument.pdf (13 pages, 143018 bytes).
+ 38i,9n,38p,903b,474s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on dokument.pdf (16 pages, 120261 bytes).
 PDF statistics:
- 225 PDF objects out of 1000 (max. 8388607)
- 62 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 264 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 249 words of extra memory for PDF output out of 10000 (max. 10000000)
 
