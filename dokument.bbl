@@ -1,0 +1,260 @@
+\begin{thebibliography}{41}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Center()]{Olympus}
+Olympus Micrscopy~Resource Center.
+\newblock
+  \url{http://www.olympusmicro.com/galleries/abramowitz/pages/3t3cells1small.html}.
+
+\bibitem[Stok³osowa(2004)]{ksiazka:hodowla}
+Stanis³awa Stok³osowa.
+\newblock \emph{Hodowla komórek i tkanek}.
+\newblock Wydawnictwo Naukowe PWN, Warszawa, 2004.
+
+\bibitem[Eagle(1955)]{ksiazka:EagleMEM}
+Harry Eagle.
+\newblock The specific amino acid requirements and mammalian cells in tissue
+  culture.
+\newblock \emph{J. Biol. Chem.}, 214:\penalty0 839--845, 1955.
+
+\bibitem[Wójcicka(Kraków 2007)]{magisterka:wojcicka}
+Anna Wójcicka.
+\newblock Reakcje fibroblastów i osteoblastów z polikaprolaktonem modyfikowanym
+  zmiennym ph ., Kraków 2007.
+\newblock Praca magisterska pod opiek¹ dr Barbary Czajkowskiej.
+
+\bibitem[DPBS()]{DPBS}
+Bicompare.com DPBS.
+\newblock
+  \url{http://www.biocompare.com/ProductDetails/346915/Dulbeccos-Phosphate-Buffered-Saline-DPBS.html}.
+
+\bibitem[Carlroth()]{siatka_burkera}
+Carlroth.
+\newblock \url{http://www.carlroth.pl/media/_pl-pl/Graphics/00001914_0.jpg}.
+
+\bibitem[i~Biochemii(Gdañsk 2008)]{krioprezerwacja}
+Wydzia³ Chemiczny Politechniki Gdañskiej Katedra Technologii~Leków i~Biochemii.
+\newblock Zamra¿anie i rozmra¿anie komórek eukariotycznych, Gdañsk 2008.
+
+\bibitem[Hobo~S.(1989)]{art:branemark}
+Garcia~LT. Hobo~S., Ichida~E.
+\newblock Osseointegration and occlusal rehabilitation.
+\newblock \emph{Chicago: Quintessence}, 3:\penalty0 104, 1989.
+
+\bibitem[College of Medicine~at Urbana–Champaign()]{histologia}
+University of Illinois at Urbana-Champaign College of Medicine~at
+  Urbana–Champaign.
+\newblock Histology atlas.
+\newblock online.
+\newblock https://histo.life.illinois.edu/histo/atlas.
+
+\bibitem[platform NTEGRA~Spectra()]{NTMDT}
+NTMDT:~NTEGRA platform NTEGRA~Spectra.
+\newblock Information brochure.
+\newblock online.
+\newblock
+  \url{http://www.ntmdt.com/data/media/files/products/ntegra/ntegra_spectra_datasheet.pdf}.
+
+\bibitem[Inc.()]{park}
+Park~Systems Inc.
+\newblock Park xe-120 system - information details.
+\newblock online.
+\newblock \url{http://www.parkafm.com/product/product_view.php?gubun=R&id=61}.
+
+\bibitem[Stalder et~al.(2006)Stalder, Kulik, Sage, Barbieri, and
+  Hoffmann]{contact_angle_soft}
+A.F. Stalder, G.~Kulik, D.~Sage, L.~Barbieri, and P.~Hoffmann.
+\newblock A snake-based approach to accurate determination of both contact
+  points and contact angles.
+\newblock \emph{Colloids And Surfaces {A}: {P}hysicochemical And Engineering
+  Aspects}, 286\penalty0 (1-3):\penalty0 92--103, September 2006.
+
+\bibitem[FH et~al.(2002)]{collagen}
+Silver FH et~al.
+\newblock Viscoelastic properties of young and old human dermis: A proposed
+  molecular mechanism for elastic energy storage in collagen and elastin.
+\newblock \emph{J Applied Polymer Science}, 86:\penalty0 1978--1985, 2002.
+
+\bibitem[Loret and Huyghe(2004)]{elastine}
+Benjamin Loret and Jacques~M. Huyghe.
+\newblock \emph{Chemo-Mechanical Couplings in Porous Media Geomechanics and
+  Biomechanics}.
+\newblock CISM International Centre for Mechanical Sciences, 2004.
+
+\bibitem[Smith et~al.(1997)]{fibroblasty_funkcje}
+Smith et~al.
+\newblock Human orbital fibroblasts in culture bind and respond to endothelin,
+  1997.
+
+\bibitem[Williams(1987)]{biomaterialy}
+D.~F. Williams.
+\newblock \emph{Definitions in Biomaterials. Progres in Biomedical
+  Engineering}.
+\newblock Elsevier, New York, 1987.
+
+\bibitem[Ivanova et~al.(2010)]{roughness_on_Ti}
+Elena~P. Ivanova et~al.
+\newblock Impact of nanoscale roughness of titanium thin film surfaces on
+  bacterial retention.
+\newblock \emph{Langmuir}, 26(3):\penalty0 1973--1982, 2010.
+
+\bibitem[Derhami et~al.(2000)]{adherence_of_fibroblasts}
+Kalal Derhami et~al.
+\newblock Quantifying the adherence of fibroblasts to titanium and its
+  enhancement by substrate-attached material.
+\newblock \emph{John Wiley\&Sons}, pages 315--322, 2000.
+
+\bibitem[Meredith et~al.(2005)]{fibroblasts_reactions}
+D.~Osian Meredith et~al.
+\newblock Human fibroblast reactions to standard and electropolished titanium
+  and ti-6al7nb, and electropolished stainless stell.
+\newblock \emph{Wiley Periodicals}, pages 541--555, 2005.
+
+\bibitem[Martin et~al.(1995)]{rough1}
+J.~Martin et~al.
+\newblock Effect on titanium surface roughness on proliferation,
+  differentiation and protein synthesis of human osteoblast-like cells mg-63.
+\newblock \emph{J Biomed Meter Res}, 29:\penalty0 389--401, 1995.
+
+\bibitem[Affrossman et~al.(1996)]{rough2}
+S.~Affrossman et~al.
+\newblock Surface topography and composition of deuterated
+  polystyrene-poly(bromostyrene) belnds.
+\newblock \emph{Macromolecules 29}, 29:\penalty0 5010--5016, 1996.
+
+\bibitem[Dalby et~al.(2004)]{rough3}
+M.~J. Dalby et~al.
+\newblock Rapid fibroblast adhesion to 27nm high polymer demixed
+  nano-topography.
+\newblock \emph{Biomaterials 25}, 25:\penalty0 77--83, 2004.
+
+\bibitem[Semlitsch et~al.(1992)]{Ti67}
+M.~F. Semlitsch et~al.
+\newblock Joint replacement components made of hot-forged and surface-treated
+  ti-6al-7nb alloy.
+\newblock \emph{Biomater}, 13(11):\penalty0 781--8, 1992.
+
+\bibitem[Borowy et~al.(1995)]{Ti525}
+K.~H. Borowy et~al.
+\newblock On the properties of a new titanium alloy (tial5fe2.5) as implant
+  material.
+\newblock \emph{Titanium'84 Science and Technology}, 2:\penalty0 1381--6, 1995.
+
+\bibitem[Long and Rack(1998)]{titanium_alloys}
+M.~Long and H.J. Rack.
+\newblock Titanium alloys in total joint replacement -- a materials science
+  perspective.
+\newblock \emph{Biomaterials}, 19:\penalty0 1621--1639, 1998.
+
+\bibitem[Steinemann(1985)]{corrosion}
+SG. Steinemann.
+\newblock Corrosion of titanium and titanium alloys for surgical implants.
+\newblock \emph{Titanium 84' Science ane Technology}, 2:\penalty0 1373--9,
+  1985.
+
+\bibitem[Horcas et~al.(2007)Horcas, Fernandez, Gomez-Rodriguez, asn
+  J.~Gomez-Herrero, and Baro]{wsxm}
+I.~Horcas, R.~Fernandez, J.M. Gomez-Rodriguez, J.~Colchero asn
+  J.~Gomez-Herrero, and A.~M. Baro.
+\newblock \emph{Rev. Sci. Instrum.}, 013705, 2007.
+
+\bibitem[Binnig et~al.(1986)Binnig, Quate, and Gerber]{afm}
+G.~Binnig, C.~F. Quate, and Ch. Gerber.
+\newblock Atomic force microscope.
+\newblock \emph{Physical Review Letters}, 56(9):\penalty0 930--933, 1986.
+
+\bibitem[Evans and Ritchie(1997)]{Evans}
+E.~Evans and K.~Ritchie.
+\newblock Dynamic strength of molecular adhesion bonds.
+\newblock \emph{Biophysical Journal}, 72\penalty0 (4):\penalty0 1541 -- 1555,
+  1997.
+\newblock ISSN 0006-3495.
+\newblock \doi{DOI: 10.1016/S0006-3495(97)78802-7}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/B94RW-4V8X9MJ-3/2/35c90145d392d138aa0b77fc2f13a362}.
+
+\bibitem[Sneddon(1965)]{sneddon}
+I.N. Sneddon.
+\newblock The relation between load and penetration in the axisymmetric
+  boussinesq problem for a punch of orbitrary profile.
+\newblock \emph{Int. Journal of Engineering Science}, 47\penalty0 (3), 1965.
+
+\bibitem[Oshikane et~al.(2007)]{snom}
+Y.~Oshikane et~al.
+\newblock Observation of nanostructure by scanning near-field optical
+  microscope with small sphere probe.
+\newblock \emph{Sci. Technol. Adv. Mater.}, 8\penalty0 (181), 2007.
+
+\bibitem[Fleischmann et~al.(1974)Fleischmann, Hendra, and McQuillan]{sers}
+M.~Fleischmann, P.J. Hendra, and A.J. McQuillan.
+\newblock Raman spectra of pyridine adsorbed at a silver electrode.
+\newblock \emph{Chemical Physics Letters}, 26\penalty0 (2):\penalty0 163 --
+  166, 1974.
+\newblock ISSN 0009-2614.
+
+\bibitem[Fleischmann and Pons(1989)]{fusion}
+Martin Fleischmann and Stanley Pons.
+\newblock Electrochemically induced nuclear fusion of deuterium.
+\newblock \emph{Journal of Electroanalytical Chemistry}, 261\penalty0 (2, Part
+  1):\penalty0 301 -- 308, 1989.
+\newblock ISSN 0022-0728.
+
+\bibitem[Stöckle et~al.(2000)Stöckle, Suh, Deckerd, and Zenobi]{ters}
+R.~M. Stöckle, Y.~D. Suh, V.~Deckerd, and R.~Zenobi.
+\newblock Nanoscale chemical analysis by tip-enhanced raman spectroscopy.
+\newblock \emph{Chemical Physics Letters}, 318\penalty0 (1-3):\penalty0
+  131--136, 2000.
+
+\bibitem[Hillner et~al.(1995)Hillner, Walters, Lal, Hansma, and
+  Hansma]{afm_clsm}
+P.E. Hillner, D.A. Walters, R.~Lal, H.G. Hansma, and RK. Hansma.
+\newblock Combined atomic force and confocal laser scanning microscope.
+\newblock \emph{Microscopy and Microanalysis}, 1\penalty0 (03):\penalty0
+  127--130, 1995.
+\newblock \doi{10.1017/S1431927695111277}.
+\newblock URL
+  \url{http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=167711&fulltextType=RA&fileId=S1431927695111277}.
+
+\bibitem[Akamine and Yamada(1996)]{afm_snom}
+S.~Akamine and H.~Yamada.
+\newblock \emph{US Patent}, \penalty0 (5,489,774), 1996.
+
+\bibitem[Schmid et~al.(2008{\natexlab{a}})]{biofilms1}
+T.~Schmid et~al.
+\newblock Towards chemical analysis of nanostructures in biofilms i: imaging of
+  biological nanostructures.
+\newblock \emph{Anal Bioanal Chem}, \penalty0 (391):\penalty0 1899--1905,
+  2008{\natexlab{a}}.
+
+\bibitem[Schmid et~al.(2008{\natexlab{b}})]{biofilms2}
+T.~Schmid et~al.
+\newblock Towards chemical analysis of nanostructures in biofilms ii:
+  tip-enhanced raman spectroscopy of alginates.
+\newblock \emph{Anal Bioanal Chem}, \penalty0 (391):\penalty0 1907--1916,
+  2008{\natexlab{b}}.
+
+\bibitem[Deckert-Gaudig et~al.(2008)Deckert-Gaudig, Bailo, and Deckert]{dna}
+T.~Deckert-Gaudig, E.~Bailo, and V.~Deckert.
+\newblock Perspectives for spatially resolved molecular spectroscopy -- raman
+  on the nanometer scale.
+\newblock \emph{J. Biophoton}, 1\penalty0 (5):\penalty0 377--389, 2008.
+
+\bibitem[U.~Neugebauer et~al.(2006)U.~Neugebauer, Rösch, Schmitt, Popp, Julien,
+  A.~Rasmussen, Budich, and Deckert]{bakteria}
+U.~U.~Neugebauer, P.~Rösch, M.~Schmitt, J.~Popp, C.~Julien, A.~A.~Rasmussen,
+  C.~Budich, and V.~Deckert.
+\newblock On the way to nanometer-sized information of the bacterial surface by
+  tip-enhanced raman spectroscopy.
+\newblock \emph{ChemPhysChem}, 7\penalty0 (7):\penalty0 1428--1430, 2006.
+
+\bibitem[Kallmes et~al.(1998)]{fibro_platyna}
+D.F. Kallmes et~al.
+\newblock In vitro proliferation and adhesion of basic fibroblast growth
+  factor-producing fibroblasts on platinum coils.
+\newblock \emph{Radiology}, 206\penalty0 (1):\penalty0 237--43, 1998.
+
+\end{thebibliography}

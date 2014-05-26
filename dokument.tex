@@ -1,0 +1,127 @@
+\documentclass[12pt]{article}
+
+    \input{preambula_pakiety.tex}
+    \input{preambula_ustawienia.tex}
+
+    \title{Nanomechanics of individual structures in endothelial cells studied by multiparameter AFM-based experimental methods}
+    \author{Grzegorz Brzezinka}
+
+    %polecenia zdefiniowane w pakiecie strona_tytulowa.sty
+    \uczelnia{Jagiellonian University in Krakow}
+    \instytut{Faculty of Physics, Astronomy and Applied Computer Science}
+	 \zaklad{Department of Physics of Nanostructures and Nanotechnology}
+    \promotor{prof. dr. hab. Marek Szymoñski}
+    \praca{PhD dissertation}
+    \rok{2014}
+    \draft  %odkomentarzuj tê liniê, jeœli wydruk ma byæ draftem -- wprowadza informacjê o drafcie na stronie tytu³owej
+    %koniec poleceñ zdefiniowanych przez pakiet strona_tytulowa.sty
+
+    %skorowidz - nie u¿ywam
+    %\makeindex
+    %koniec skorowidza
+
+\begin{document}
+    \renewcommand{\figurename}{Fig.}    %musi byc pod \begin{document}, bo w~tym miejscu pakiet 'babel' narzuca swoje ustawienia
+    \renewcommand{\tablename}{Tab.}     %j.w.
+    \pagenumbering{roman}               %numeracja stron: rzymska
+    \thispagestyle{empty}               %na tej stronie: brak numeru
+    \stronatytulowa                     %strona tytu³owa tworzona przez pakiet strona_tytulowa.tex
+
+    %podziêkowania
+    \newpage
+    ~   %potrzebne dla \vfill
+    \vfill
+    {\sffamily
+    \begin{flushright}
+        \begin{tabular}{l}
+		  %Serdecznie dziêkujê wszystkim osobom, które przyczyni³y siê\\
+        %do powstania mojej pracy magisterskiej.\\ \\
+        %Promotorowi profesorowi Markowi Szymoñskiemu dziêkujê\\
+        %za wartoœciow¹ opiekê naukow¹ \\i zapewnienie wszelkich niezbêdnych œrodków\\ umo¿liwiaj¹cych swobodn¹ realizacjê rozwijaj¹cej pracy.\\ \\
+			%Podziêkowania kierujê równie¿ do pracowników\\ Zak³adu Fizyki Nanostruktur i Nanotechnologii,\\ szczególnie do dr hab. Piotra Cyganika i dr Janusza Budziocha,\\ za cenne wskazówki, rady i poœwiêcony czas.\\ \\
+        %Nieocenion¹ motywacjê do pracy stanowi³a dla mnie\\ Rodzina i Narzeczona,\\ którym to jestem bardzo wdziêczny\\ za mobilizuj¹ce wsparcie, cierpliwoœæ i koñcow¹ korektê.\\
+%To im w³aœnie, \\którzy zawsze wspieraj¹ mnie w d¹¿eniu do celu, \\dedykujê tê pracê.
+				Acknowledgements here
+        \end{tabular}
+    \end{flushright}
+    }
+    \vskip0.5in
+    \thispagestyle{empty}
+    \newpage
+    %koniec podziêkowañ
+
+    %formatowanie spisu treœci i~nag³ówków
+    \renewcommand{\cftbeforesecskip}{8pt}
+    \renewcommand{\cftsecafterpnum}{\vskip 8pt}
+    \renewcommand{\cftparskip}{3pt}
+    \renewcommand{\cfttoctitlefont}{\Large\bfseries\sffamily}
+    \renewcommand{\cftsecfont}{\bfseries\sffamily}
+    \renewcommand{\cftsubsecfont}{\sffamily}
+    \renewcommand{\cftsubsubsecfont}{\sffamily}
+    \renewcommand{\cftparafont}{\sffamily}
+    %koniec formatowania spisu treœci i nag³ówków
+%\hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black}
+    \tableofcontents    %spis treœci
+    \newpage
+
+    %\input{wykaz_skrotow.tex}
+    %\newpage
+
+   
+    %\hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black}
+    %przeniesienie wartoœci licznika stron na strony numerowane innym stylem (arabic)
+    \newcounter{licznikStron}
+    \setcounter{licznikStron}{\value{page}}
+    \pagenumbering{arabic}
+    \setcounter{page}{\value{licznikStron}}
+    %koniec przeniesienia...
+
+    %treœæ g³ówna dokumentu
+    \input{tresc_dokumentu.tex}
+    \newpage
+    %koniec treœci g³ównej dokumentu
+
+    %bibliografia
+    %GATHER{bibliografia.bib}                       %polecenie programu WinEdt, w³¹cza plik do drzewa 'projektu'
+    \nocite{*}													 %za³¹cza niecytowane pozycje bibliografii
+    \bibliographystyle{unsrtnat}                 %styl bibliografii: w kolejnoœci cytowania, zrozumia³y dla pakietu hyperref.sty
+    \addcontentsline{toc}{section}{References}      %musi byæ wy¿ej ni¿ \bibliography{bibliografia}, ¿eby w~spisie treœci by³ w³aœciwy numer strony
+    \bibliography{bibliografia}
+    %koniec bibliografii
+ %spis rysunków i~tablic
+    %format spisu treœci dotyczy tylko tych spisów, które s¹ poni¿ej
+    \hypersetup{linkcolor=black}
+    \renewcommand{\cftparskip}{3pt}
+    \clearpage
+    \renewcommand{\cftloftitlefont}{\Large\bfseries\sffamily}
+    \listoffigures
+    \addcontentsline{toc}{section}{List of figures}
+    \newpage
+    \renewcommand{\cftlottitlefont}{\Large\bfseries\sffamily}
+    \listoftables
+    \addcontentsline{toc}{section}{List of tables}
+    \newpage
+    %powrót do czerwonego koloru dla dalszych odnoœników (spis literatury, przy w³¹czonym pokazywaniu numerów stron, do których odnosz¹ siê poszczególne pozycje)
+    %\hypersetup{linkcolor=red}
+	 \hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black}
+    %koniec spisu rysunków i~tablic
+    %za³¹czniki
+    \newpage
+    \appendix
+    \renewcommand{\appendixtocname}{Appendix}
+    \renewcommand{\appendixpagename}{~\vspace{8cm} \begin{center}Appendix\end{center}\newpage}
+    \thispagestyle{empty}
+    \addappheadtotoc
+    \appendixpage
+    %\input{zalacznik.tex}
+    %koniec za³¹czników
+
+    %skorowidz - nie u¿ywam
+%    \index{Napis}
+%    \index{Napis!Podnapis}
+%    \printindex
+    %koniec skorowidza
+    %lista rzeczy do zrobienia: wypisuje na koñcu dokumentu, patrz: pakiet todo.sty
+    \todos
+    %koniec listy rzeczy do zrobienia
+\end{document}

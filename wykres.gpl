@@ -1,0 +1,26 @@
+set terminal latex 		#latex -- tworzy plik TeX'a, win -- wyœwietla wykres w okienku
+set output "wykres.tex"		#plik wynikowy
+set size 1., 4/5.		#rozmiar wykresu
+
+set format y "$%g$"		#format liczb osi
+set format x "$%.2f$"
+
+E = 24				#definicje parametrów
+R = 2
+L = 0.005
+C = 0.000025
+i_0 = 11
+omega = 1/sqrt(L*C)
+
+set grid			#poka¿ siatkê wykresu
+
+set ytics ("$E$" E, "$0$" 0)	#podpisy osi
+set xtics ("$0$" 0, "$0.5$" 0.0005, "$1$" 0.001, "$1.5$" 0.0015, "$2$ ms" 0.002)
+
+set label "$i_0 > 0$" at 0.00053,130	#podpisy, wraz ze wspó³rzêdnymi
+set label "$i_0 = 0$" at 0.00125,72
+
+#wykresy trzech krzywych
+plot [t=0:0.002] [-150:190] E*(1-cos(omega*t)) + i_0/omega/C * sin(omega*t) title "" with lines 1,\
+E title "" with lines 1,\
+E*(1-cos(omega*t)) title "" with lines 1
