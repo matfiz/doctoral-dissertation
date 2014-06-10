@@ -1,13 +1,14 @@
 \begin{thebibliography}{1}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Stok³osowa(2004)]{ksiazka:hodowla}
-Stanis³awa Stok³osowa.
-\newblock \emph{Hodowla komórek i tkanek}.
-\newblock Wydawnictwo Naukowe PWN, Warszawa, 2004.
+\bibitem{Even-Ram2006}
+{\sc Even-Ram, S., Artym, V., and Yamada, K.~M.}
+\newblock {Matrix control of stem cell fate.}
+\newblock {\em Cell 126}, 4 (Aug. 2006), 645--7.
+
+\bibitem{Silberberg2008}
+{\sc Silberberg, Y.~R., Pelling, A.~E., Yakubov, G.~E., Crum, W.~R., Hawkes,
+  D.~J., and Horton, M.~a.}
+\newblock {Mitochondrial displacements in response to nanomechanical forces.}
+\newblock {\em Journal of molecular recognition : JMR 21}, 1 (2008), 30--6.
 
 \end{thebibliography}
