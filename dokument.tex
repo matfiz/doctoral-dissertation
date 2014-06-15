@@ -63,9 +63,9 @@
 %\hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black}
     \tableofcontents    %spis treœci
     \newpage
-
+		\input{glossary.tex}
     %\input{wykaz_skrotow.tex}
-    %\newpage
+    \newpage
 
    
     %\hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black}
@@ -75,8 +75,9 @@
     \pagenumbering{arabic}
     \setcounter{page}{\value{licznikStron}}
     %koniec przeniesienia...
-
+	
     %treœæ g³ówna dokumentu
+		\hypersetup{citecolor=ForestGreen}
     \input{tresc_dokumentu.tex}
     \newpage
     %koniec treœci g³ównej dokumentu
@@ -103,7 +104,7 @@
     \newpage
     %powrót do czerwonego koloru dla dalszych odnoœników (spis literatury, przy w³¹czonym pokazywaniu numerów stron, do których odnosz¹ siê poszczególne pozycje)
     %\hypersetup{linkcolor=red}
-	 \hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black}
+	  %\hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black}
     %koniec spisu rysunków i~tablic
     %za³¹czniki
     \newpage

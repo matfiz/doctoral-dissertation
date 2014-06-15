@@ -1,14 +1,145 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{Bausch2001}
+{\sc Bausch, a.~R., Hellerer, U., Essler, M., Aepfelbacher, M., and Sackmann,
+  E.}
+\newblock {Rapid stiffening of integrin receptor-actin linkages in endothelial
+  cells stimulated with thrombin: a magnetic bead microrheology study.}
+\newblock {\em Biophysical journal 80}, 6 (June 2001), 2649--57.
 
 \bibitem{Even-Ram2006}
 {\sc Even-Ram, S., Artym, V., and Yamada, K.~M.}
 \newblock {Matrix control of stem cell fate.}
 \newblock {\em Cell 126}, 4 (Aug. 2006), 645--7.
 
+\bibitem{Fels2014}
+{\sc Fels, J., Jeggle, P., Liashkovich, I., Peters, W., and Oberleithner, H.}
+\newblock {Nanomechanics of vascular endothelium}.
+\newblock {\em Cell and Tissue Research\/} (Mar. 2014).
+
+\bibitem{Fels2010_trois}
+{\sc Fels, J., Oberleithner, H., and Kusche-Vihrog, K.}
+\newblock {M\'{e}nage \`{a} trois: Aldosterone, sodium and nitric oxide in
+  vascular endothelium.}
+\newblock {\em Biochimica et biophysica acta 1802}, 12 (Mar. 2010), 1193--1202.
+
+\bibitem{Fu2013}
+{\sc Fu, B.~M., and Tarbell, J.~M.}
+\newblock {Mechano-sensing and transduction by endothelial surface glycocalyx:
+  composition, structure, and function.}
+\newblock {\em Wiley interdisciplinary reviews. Systems biology and medicine
+  5}, 3 (2013), 381--90.
+
+\bibitem{Hayakawa2008}
+{\sc Hayakawa, K., Tatsumi, H., and Sokabe, M.}
+\newblock {Actin stress fibers transmit and focus force to activate
+  mechanosensitive channels.}
+\newblock {\em Journal of cell science 121}, Pt 4 (Feb. 2008), 496--503.
+
+\bibitem{Kolodziejczyk2013}
+{\sc Kolodziejczyk, A., Brzezinka, G., Khurana, K., Targosz-Korecka, M., and
+  Szymonski, M.}
+\newblock {Nanomechanical sensing of the endothelial cell response to
+  anti-inflammatory action of 1-methylnicotinamide chloride.}
+\newblock {\em International journal of nanomedicine 8\/} (Jan. 2013),
+  2757--67.
+
+\bibitem{Kusche-Vihrog2008}
+{\sc Kusche-Vihrog, K., Sobczak, K., Bangel, N., Wilhelmi, M., Nechyporuk-Zloy,
+  V., Schwab, A., Schillers, H., and Oberleithner, H.}
+\newblock {Aldosterone and amiloride alter ENaC abundance in vascular
+  endothelium.}
+\newblock {\em Pfl\"{u}gers Archiv : European journal of physiology 455}, 5
+  (Feb. 2008), 849--57.
+
+\bibitem{Kusche-Vihrog2011}
+{\sc Kusche-Vihrog, K., Urbanova, K., Blanqu\'{e}, A., Wilhelmi, M., Schillers,
+  H., Kliche, K., Pavenst\"{a}dt, H., Brand, E., and Oberleithner, H.}
+\newblock {C-reactive protein makes human endothelium stiff and tight.}
+\newblock {\em Hypertension 57}, 2 (Feb. 2011), 231--7.
+
+\bibitem{Loe2004}
+{\sc Loe, M.~J., and Edwards, W.~D.}
+\newblock {A light-hearted look at a lion-hearted organ (or, a perspective from
+  three standard deviations beyond the norm). Part 1 (of two parts).}
+\newblock {\em Cardiovascular pathology : the official journal of the Society
+  for Cardiovascular Pathology 13}, 5 (2004), 282--92.
+
+\bibitem{Oberleithner2005}
+{\sc Oberleithner, H.}
+\newblock {Aldosterone makes human endothelium stiff and vulnerable.}
+\newblock {\em Kidney international 67}, 5 (May 2005), 1680--2.
+
+\bibitem{Oberleithner2009}
+{\sc Oberleithner, H., Callies, C., Kusche-Vihrog, K., Schillers, H., Shahin,
+  V., Riethm\"{u}ller, C., Macgregor, G.~a., and de~Wardener, H.~E.}
+\newblock {Potassium softens vascular endothelium and increases nitric oxide
+  release.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America 106}, 8 (Feb. 2009), 2829--34.
+
+\bibitem{Oberleithner2007a}
+{\sc Oberleithner, H., Riethm\"{u}ller, C., Schillers, H., MacGregor, G.~a.,
+  de~Wardener, H.~E., and Hausberg, M.}
+\newblock {Plasma sodium stiffens vascular endothelium and reduces nitric oxide
+  release.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America 104}, 41 (Oct. 2007), 16281--6.
+
+\bibitem{Sato1987}
+{\sc Sato, M., Levesque, M.~J., and Nerem, R.~M.}
+\newblock {Micropipette aspiration of cultured bovine aortic endothelial cells
+  exposed to shear stress}.
+\newblock {\em Arteriosclerosis, Thrombosis, and Vascular Biology 7}, 3 (May
+  1987), 276--286.
+
 \bibitem{Silberberg2008}
 {\sc Silberberg, Y.~R., Pelling, A.~E., Yakubov, G.~E., Crum, W.~R., Hawkes,
   D.~J., and Horton, M.~a.}
 \newblock {Mitochondrial displacements in response to nanomechanical forces.}
 \newblock {\em Journal of molecular recognition : JMR 21}, 1 (2008), 30--6.
+
+\bibitem{Szczygiel2011}
+{\sc Szczygiel, A.~M., Brzezinka, G., Targosz-Korecka, M., Chlopicki, S., and
+  Szymonski, M.}
+\newblock {Elasticity changes anti-correlate with NO production for human
+  endothelial cells stimulated with TNF-$\alpha$}.
+\newblock {\em Pfl\"{u}gers Archiv - European Journal of Physiology 463}, 3
+  (Dec. 2011), 487--496.
+
+\bibitem{Targosz-Korecka2013}
+{\sc Targosz-Korecka, M., Brzezinka, G.~D., Malek, K.~E., Stepień, E., and
+  Szymonski, M.}
+\newblock {Stiffness memory of EA.hy926 endothelial cells in response to
+  chronic hyperglycemia.}
+\newblock {\em Cardiovascular diabetology 12\/} (Jan. 2013), 96.
+
+\bibitem{Wang2006}
+{\sc Wang, S.-K., Chiu, J.-J., Lee, M.-R., Chou, S.-C., Chen, L.-J., and Hwang,
+  N. H.~C.}
+\newblock {Leukocyte-endothelium interaction: measurement by laser tweezers
+  force spectroscopy.}
+\newblock {\em Cardiovascular engineering (Dordrecht, Netherlands) 6}, 3 (Sept.
+  2006), 111--7.
+
+\bibitem{Wiesinger2013}
+{\sc Wiesinger, A., Peters, W., Chappell, D., Kentrup, D., Reuter, S.,
+  Pavenst\"{a}dt, H., Oberleithner, H., and K\"{u}mpers, P.}
+\newblock {Nanomechanics of the endothelial glycocalyx in experimental sepsis.}
+\newblock {\em PloS one 8}, 11 (Jan. 2013), e80905.
+
+\bibitem{Zeng2010}
+{\sc Zeng, D., Juzkiw, T., Read, a.~T., Chan, D. W.-H., Glucksberg, M.~R.,
+  Ethier, C.~R., and Johnson, M.}
+\newblock {Young's modulus of elasticity of Schlemm's canal endothelial cells.}
+\newblock {\em Biomechanics and modeling in mechanobiology 9}, 1 (Feb. 2010),
+  19--33.
+
+\bibitem{Zeng2011}
+{\sc Zeng, Y., Yip, A.~K., Teo, S.-K., and Chiam, K.-H.}
+\newblock {A three-dimensional random network model of the cytoskeleton and its
+  role in mechanotransduction and nucleus deformation.}
+\newblock {\em Biomechanics and modeling in mechanobiology\/} (Feb. 2011),
+  49--59.
 
 \end{thebibliography}
