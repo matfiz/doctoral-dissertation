@@ -7,6 +7,24 @@
   cells stimulated with thrombin: a magnetic bead microrheology study.}
 \newblock {\em Biophysical journal 80}, 6 (June 2001), 2649--57.
 
+\bibitem{Cooper2000}
+{\sc Cooper, G., and Sunderland, M.}
+\newblock {Structure of the Plasma Membrane}.
+\newblock In {\em The Cell: A Molecular Approach}, 2nd~ed. Sinauer Associates,
+  2000.
+
+\bibitem{Davies1995}
+{\sc Davies, P.~F.}
+\newblock {Flow-Mediated Mechanotransduction}.
+\newblock {\em Physiological Reviews 75}, 3 (1995).
+
+\bibitem{Edgell1983}
+{\sc Edgell, C.-j.~S., Mcdonald, C.~C., and Graham, J.~B.}
+\newblock {Permanent cell line expressing human factor VIII-related antigen
+  established by hybridization}.
+\newblock {\em Proceedings of the National Academy of Sciences: Cell Biology
+  80}, June (1983), 3734--3737.
+
 \bibitem{Even-Ram2006}
 {\sc Even-Ram, S., Artym, V., and Yamada, K.~M.}
 \newblock {Matrix control of stem cell fate.}
@@ -30,11 +48,36 @@
 \newblock {\em Wiley interdisciplinary reviews. Systems biology and medicine
   5}, 3 (2013), 381--90.
 
+\bibitem{Gao2010}
+{\sc Gao, L., and Lipowsky, H.~H.}
+\newblock {Composition of the endothelial glycocalyx and its relation to its
+  thickness and diffusion of small solutes.}
+\newblock {\em Microvascular research 80}, 3 (Dec. 2010), 394--401.
+
 \bibitem{Hayakawa2008}
 {\sc Hayakawa, K., Tatsumi, H., and Sokabe, M.}
 \newblock {Actin stress fibers transmit and focus force to activate
   mechanosensitive channels.}
 \newblock {\em Journal of cell science 121}, Pt 4 (Feb. 2008), 496--503.
+
+\bibitem{Herrmann2007}
+{\sc Herrmann, H., B\"{a}r, H., Kreplak, L., Strelkov, S.~V., and Aebi, U.}
+\newblock {Intermediate filaments: from cell architecture to nanomechanics.}
+\newblock {\em Nature reviews. Molecular cell biology 8}, 7 (July 2007),
+  562--73.
+
+\bibitem{Kis2008}
+{\sc Kis, a., Kasas, S., Kulik, a.~J., Catsicas, S., and Forr\'{o}, L.}
+\newblock {Temperature-dependent elasticity of microtubules.}
+\newblock {\em Langmuir : the ACS journal of surfaces and colloids 24}, 12
+  (June 2008), 6176--81.
+
+\bibitem{Kojima1994}
+{\sc Kojima, H., Ishijima, a., and Yanagida, T.}
+\newblock {Direct measurement of stiffness of single actin filaments with and
+  without tropomyosin by in vitro nanomanipulation.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America 91}, 26 (Dec. 1994), 12962--6.
 
 \bibitem{Kolodziejczyk2013}
 {\sc Kolodziejczyk, A., Brzezinka, G., Khurana, K., Targosz-Korecka, M., and
@@ -65,6 +108,11 @@
 \newblock {\em Cardiovascular pathology : the official journal of the Society
   for Cardiovascular Pathology 13}, 5 (2004), 282--92.
 
+\bibitem{Martins2012}
+{\sc Martins, R., Finan, J., Guilak, F., and Lee, D.}
+\newblock {Mechanical regulation of nuclear structure and function}.
+\newblock {\em Annual review of \ldots 14\/} (2012), 431--455.
+
 \bibitem{Oberleithner2005}
 {\sc Oberleithner, H.}
 \newblock {Aldosterone makes human endothelium stiff and vulnerable.}
@@ -78,6 +126,14 @@
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America 106}, 8 (Feb. 2009), 2829--34.
 
+\bibitem{Oberleithner2011}
+{\sc Oberleithner, H., Peters, W., Kusche-Vihrog, K., Korte, S., Schillers, H.,
+  Kliche, K., and Oberleithner, K.}
+\newblock {Salt overload damages the glycocalyx sodium barrier of vascular
+  endothelium.}
+\newblock {\em Pfl\"{u}gers Archiv : European journal of physiology 462}, 4
+  (Oct. 2011), 519--28.
+
 \bibitem{Oberleithner2007a}
 {\sc Oberleithner, H., Riethm\"{u}ller, C., Schillers, H., MacGregor, G.~a.,
   de~Wardener, H.~E., and Hausberg, M.}
@@ -86,6 +142,29 @@
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America 104}, 41 (Oct. 2007), 16281--6.
 
+\bibitem{Patterson2001}
+{\sc Patterson, C., and Lum, H.}
+\newblock {Update on pulmonary edema: the role and regulation of endothelial
+  barrier function}.
+\newblock {\em Endothelium 8}, 2 (2001), 75--105.
+
+\bibitem{Prasain2009}
+{\sc Prasain, N., and Stevens, T.}
+\newblock {The actin cytoskeleton in endothelial cell phenotypes}.
+\newblock {\em Microvascular research 77}, 1 (2009), 53--63.
+
+\bibitem{Qin2009}
+{\sc Qin, Z., Kreplak, L., and Buehler, M.~J.}
+\newblock {Hierarchical structure controls nanomechanical properties of
+  vimentin intermediate filaments.}
+\newblock {\em PloS one 4}, 10 (Jan. 2009), e7294.
+
+\bibitem{Satcher1996}
+{\sc Satcher, R.~L., and Dewey, C.~F.}
+\newblock {Theoretical estimates of mechanical properties of the endothelial
+  cell cytoskeleton.}
+\newblock {\em Biophysical journal 71}, 1 (July 1996), 109--18.
+
 \bibitem{Sato1987}
 {\sc Sato, M., Levesque, M.~J., and Nerem, R.~M.}
 \newblock {Micropipette aspiration of cultured bovine aortic endothelial cells
@@ -93,11 +172,43 @@
 \newblock {\em Arteriosclerosis, Thrombosis, and Vascular Biology 7}, 3 (May
   1987), 276--286.
 
+\bibitem{Schnitzer1988}
+{\sc Schnitzer, J.~E.}
+\newblock {Glycocalyx electrostatic potential profile analysis: ion, pH,
+  steric, and charge effects.}
+\newblock {\em The Yale journal of biology and medicine 61}, 5 (1988), 427--46.
+
+\bibitem{Shao2014}
+{\sc Shao, Y., Mann, J.~M., Chen, W., and Fu, J.}
+\newblock {Global architecture of the F-actin cytoskeleton regulates cell
+  shape-dependent endothelial mechanotransduction.}
+\newblock {\em Integrative biology : quantitative biosciences from nano to
+  macro 6}, 3 (Mar. 2014), 300--11.
+
 \bibitem{Silberberg2008}
 {\sc Silberberg, Y.~R., Pelling, A.~E., Yakubov, G.~E., Crum, W.~R., Hawkes,
   D.~J., and Horton, M.~a.}
 \newblock {Mitochondrial displacements in response to nanomechanical forces.}
 \newblock {\em Journal of molecular recognition : JMR 21}, 1 (2008), 30--6.
+
+\bibitem{Singer1972}
+{\sc Singer, S.~J., and Nicolson, G.~L.}
+\newblock {The fluid mosaic model of the structure of cell membranes.}
+\newblock {\em Science (New York, N.Y.) 175}, 4023 (Feb. 1972), 720--31.
+
+\bibitem{Squire2001}
+{\sc Squire, J.~M., Chew, M., Nneji, G., Neal, C., Barry, J., and Michel, C.}
+\newblock {Quasi-periodic substructure in the microvessel endothelial
+  glycocalyx: a possible explanation for molecular filtering?}
+\newblock {\em Journal of structural biology 136}, 3 (Dec. 2001), 239--55.
+
+\bibitem{Swift2013}
+{\sc Swift, J., Ivanovska, I.~L., Buxboim, A., Harada, T., Dingal, P. C. D.~P.,
+  Pinter, J., Pajerowski, J.~D., Spinler, K.~R., Shin, J.-W., Tewari, M.,
+  Rehfeldt, F., Speicher, D.~W., and Discher, D.~E.}
+\newblock {Nuclear lamin-A scales with tissue stiffness and enhances
+  matrix-directed differentiation.}
+\newblock {\em Science (New York, N.Y.) 341}, 6149 (Aug. 2013), 1240104.
 
 \bibitem{Szczygiel2011}
 {\sc Szczygiel, A.~M., Brzezinka, G., Targosz-Korecka, M., Chlopicki, S., and

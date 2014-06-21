@@ -1,0 +1,240 @@
+\ifglsentryexists{AFM}{}%
+{%
+\gls@defglossaryentry{AFM}%
+{%
+name={AFM},%
+sort={AFM},%
+type={main},%
+first={Atomic Force Microscope (AFM)},%
+firstplural={Atomic Force Microscopes(AFMs)},%
+text={AFM},%
+plural={AFMs},%
+description={Atomic Force Microscope},%
+descriptionplural={Atomic Force Microscope\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Atomic Force Microscope},%
+longplural={Atomic Force Microscopes},%
+short={AFM},%
+shortplural={AFMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TNF}{}%
+{%
+\gls@defglossaryentry{TNF}%
+{%
+name={TNF-$\alpha $},%
+sort={TNF-$\alpha $},%
+type={main},%
+first={Tumor Necrosis Factor Alpha (TNF-$\alpha $)},%
+firstplural={Tumor Necrosis Factor Alphas(TNF-$\alpha $s)},%
+text={TNF-$\alpha $},%
+plural={TNF-$\alpha $s},%
+description={Tumor Necrosis Factor Alpha},%
+descriptionplural={Tumor Necrosis Factor Alpha\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Tumor Necrosis Factor Alpha},%
+longplural={Tumor Necrosis Factor Alphas},%
+short={TNF-$\alpha $},%
+shortplural={TNF-$\alpha $s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NO}{}%
+{%
+\gls@defglossaryentry{NO}%
+{%
+name={NO},%
+sort={NO},%
+type={main},%
+first={Nitric Oxide (NO)},%
+firstplural={Nitric Oxides(NOs)},%
+text={NO},%
+plural={NOs},%
+description={Nitric Oxide},%
+descriptionplural={Nitric Oxide\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Nitric Oxide},%
+longplural={Nitric Oxides},%
+short={NO},%
+shortplural={NOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EC}{}%
+{%
+\gls@defglossaryentry{EC}%
+{%
+name={EC},%
+sort={EC},%
+type={main},%
+first={endothelial cell (EC)},%
+firstplural={endothelial cells(ECs)},%
+text={EC},%
+plural={ECs},%
+description={endothelial cell},%
+descriptionplural={endothelial cell\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={endothelial cell},%
+longplural={endothelial cells},%
+short={EC},%
+shortplural={ECs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ENaC}{}%
+{%
+\gls@defglossaryentry{ENaC}%
+{%
+name={ENaC},%
+sort={ENaC},%
+type={main},%
+first={Epithelial Sodium Channel (ENaC)},%
+firstplural={Epithelial Sodium Channels(ENaCs)},%
+text={ENaC},%
+plural={ENaCs},%
+description={Epithelial Sodium Channel},%
+descriptionplural={Epithelial Sodium Channel\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Epithelial Sodium Channel},%
+longplural={Epithelial Sodium Channels},%
+short={ENaC},%
+shortplural={ENaCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{eGC}{}%
+{%
+\gls@defglossaryentry{eGC}%
+{%
+name={eGC},%
+sort={eGC},%
+type={main},%
+first={Endothelial Glycocalyx (eGC)},%
+firstplural={Endothelial Glycocalyxs(eGCs)},%
+text={eGC},%
+plural={eGCs},%
+description={Endothelial Glycocalyx},%
+descriptionplural={Endothelial Glycocalyx\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Endothelial Glycocalyx},%
+longplural={Endothelial Glycocalyxs},%
+short={eGC},%
+shortplural={eGCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{eNOS}{}%
+{%
+\gls@defglossaryentry{eNOS}%
+{%
+name={eNOS},%
+sort={eNOS},%
+type={main},%
+first={Endothelial Nitric Oxide Synthase (eNOS)},%
+firstplural={Endothelial Nitric Oxide Synthases(eNOSs)},%
+text={eNOS},%
+plural={eNOSs},%
+description={Endothelial Nitric Oxide Synthase},%
+descriptionplural={Endothelial Nitric Oxide Synthase\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Endothelial Nitric Oxide Synthase},%
+longplural={Endothelial Nitric Oxide Synthases},%
+short={eNOS},%
+shortplural={eNOSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{HUVEC}{}%
+{%
+\gls@defglossaryentry{HUVEC}%
+{%
+name={HUVEC},%
+sort={HUVEC},%
+type={main},%
+first={human umbilical vein endothelial cell (HUVEC)},%
+firstplural={human umbilical vein endothelial cells(HUVECs)},%
+text={HUVEC},%
+plural={HUVECs},%
+description={human umbilical vein endothelial cell},%
+descriptionplural={human umbilical vein endothelial cell\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={human umbilical vein endothelial cell},%
+longplural={human umbilical vein endothelial cells},%
+short={HUVEC},%
+shortplural={HUVECs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
